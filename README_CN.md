@@ -182,6 +182,7 @@ Claude Code 官方仓库与 Anthropic 维护的核心资源。
 | [alirezarezvani/claude-code-aso-skill](https://github.com/alirezarezvani/claude-code-aso-skill) | 301 ⭐ | AEO Automation Framework for |
 | [ndpvt-web/latex-document-skill](https://github.com/ndpvt-web/latex-document-skill) | 214 ⭐ | Universal LaTeX document skill for |
 | [jcmrs/claude-code-spec-kit-subagent-plugin](https://github.com/jcmrs/claude-code-spec-kit-subagent-plugin) | 19 ⭐ | Code plugin that provides a conversational, adaptive, and agentic |
+| [beastlabai/multi-llm-plugin](https://github.com/beastlabai/multi-llm-plugin) | 8 ⭐ | Claude Code 多模型编排插件：并行调用多个 LLM 提供商完成计划评审、任务生成、实现与代码评审 |
 
 ## 🧠 记忆与上下文
 

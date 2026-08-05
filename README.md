@@ -182,6 +182,7 @@ Installable skills, plugins, and capability extensions for Claude Code.
 | [alirezarezvani/claude-code-aso-skill](https://github.com/alirezarezvani/claude-code-aso-skill) | 301 ⭐ | AEO Automation Framework for |
 | [ndpvt-web/latex-document-skill](https://github.com/ndpvt-web/latex-document-skill) | 214 ⭐ | Universal LaTeX document skill for |
 | [jcmrs/claude-code-spec-kit-subagent-plugin](https://github.com/jcmrs/claude-code-spec-kit-subagent-plugin) | 19 ⭐ | Code plugin that provides a conversational, adaptive, and agentic |
+| [beastlabai/multi-llm-plugin](https://github.com/beastlabai/multi-llm-plugin) | 8 ⭐ | Multi-LLM orchestration plugin for Claude Code: parallel plan review, task generation, implementation, and code review across multiple LLM providers |
 
 ## 🧠 Memory & Context
 
